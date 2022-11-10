@@ -18,6 +18,6 @@ export default {
 </script>
 <style scoped>
 .text-red {
-  color: green;
+  color: yellow;
 }
 </style>
