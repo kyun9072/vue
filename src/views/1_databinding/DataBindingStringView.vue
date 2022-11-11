@@ -11,13 +11,17 @@ export default {
     return {
       userName: 'John Joe',
       age: 80,
-      city: 'Seoul'
+      city: 'Seoul in'
     }
   }
 }
 </script>
 <style scoped>
 .text-red {
+<<<<<<< HEAD
   color: yellow;
+=======
+  color: rebeccapurple;
+>>>>>>> main
 }
 </style>
