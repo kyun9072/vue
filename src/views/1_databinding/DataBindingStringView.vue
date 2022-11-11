@@ -11,7 +11,7 @@ export default {
     return {
       userName: 'John Joe',
       age: 80,
-      city: 'Seoul'
+      city: 'Seoul in'
     }
   }
 }
