@@ -18,10 +18,6 @@ export default {
 </script>
 <style scoped>
 .text-red {
-<<<<<<< HEAD
-  color: yellow;
-=======
   color: rebeccapurple;
->>>>>>> main
 }
 </style>
